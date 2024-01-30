@@ -1,3 +1,11 @@
+Kakao, I hope you are satisfied with this:
+![](https://github.com/UjuiUjuMandan/tachiyomi/assets/125150101/b165c91d-e511-482e-8da9-db9a901edc44)
+
+And that's my response to:
+![](https://archive.is/djemF/d974fb961ff563ea771fcc0c486edf7002c5167a.jpg)
+
+---
+
 | Build | Stable | Weekly Preview | Contribute |
 |-------|--------|----------------|------------|
 | [![CI](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml/badge.svg)](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml) | [![stable release](https://img.shields.io/github/release/tachiyomiorg/tachiyomi.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi/releases) | [![latest preview build](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi-preview.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi-preview/releases) | [![Translation status](https://hosted.weblate.org/widgets/tachiyomi/-/svg-badge.svg)](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget) |
